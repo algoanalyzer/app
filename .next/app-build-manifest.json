@@ -1,0 +1,85 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-app_globals_css-node_modules_next_font_google_target_css.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(experiment2)/level-zero-bs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-app_globals_css-node_modules_next_font_google_target_css.css",
+      "static/chunks/app/(experiment2)/level-zero-bs/page.js"
+    ],
+    "/(experiment2)/level-zero-bs/error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(experiment2)/level-zero-bs/error.js"
+    ],
+    "/(experiment2)/level-zero-bs/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(experiment2)/level-zero-bs/loading.js"
+    ],
+    "/(experiment2)/level-one-bs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-app_globals_css-node_modules_next_font_google_target_css.css",
+      "static/chunks/app/(experiment2)/level-one-bs/page.js"
+    ],
+    "/(experiment2)/level-one-bs/error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(experiment2)/level-one-bs/error.js"
+    ],
+    "/(experiment2)/level-one-bs/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(experiment2)/level-one-bs/loading.js"
+    ],
+    "/(experiment2)/level-two-bs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-app_globals_css-node_modules_next_font_google_target_css.css",
+      "static/chunks/app/(experiment2)/level-two-bs/page.js"
+    ],
+    "/(experiment2)/level-two-bs/error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(experiment2)/level-two-bs/error.js"
+    ],
+    "/(experiment2)/level-two-bs/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(experiment2)/level-two-bs/loading.js"
+    ],
+    "/thanks/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-app_globals_css-node_modules_next_font_google_target_css.css",
+      "static/chunks/app/thanks/page.js"
+    ],
+    "/(experiment)/level-zero/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-app_globals_css-node_modules_next_font_google_target_css.css",
+      "static/chunks/app/(experiment)/level-zero/page.js"
+    ],
+    "/(experiment)/level-zero/error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(experiment)/level-zero/error.js"
+    ],
+    "/(experiment)/level-zero/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(experiment)/level-zero/loading.js"
+    ]
+  }
+}
